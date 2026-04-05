@@ -1,2 +1,8 @@
-# pocket-notes-20260405
-Small notes and simple references.
+# Pocket Notes
+
+A tiny collection of short notes and practical reminders.
+
+## Included
+- short notes
+- simple references
+- lightweight updates
